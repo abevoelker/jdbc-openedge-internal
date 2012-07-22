@@ -1,7 +1,7 @@
 module Jdbc
   module OpenEdge
     module Internal
-      JARS = [ 'base.jar', 'openedge.jar', 'util.jar']
+      JARS = [ 'openedge.jar' ]
     end
   end
 end
